@@ -10,19 +10,296 @@ Calendar Legend
 (P): Lecture taught by Prof. Ronald Prinn  
 (M): Lecture taught by Dr. Robert McClatchey
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | {{< h 3 >}}Course Overview and Role of Radiation in Climate System (P and M){{< /h >}}   {{< br >}}{{< br >}} *   Global Energy Budget{{< br >}}*   Chemical Composition and Radiative Effects{{< br >}}*   Thermal Structure of the Atmosphere {{< br >}}{{< br >}}  |  |
-| 2 | {{< h 3 >}}Physics of Radiation (P){{< /h >}}   {{< br >}}{{< br >}} *   Thermodynamic Concepts{{< br >}}*   Energy Levels in Molecules {{< br >}}{{< br >}}  |  |
-| 3 | {{< h 3 >}}Molecular Spectroscopy (P){{< /h >}}   {{< br >}}{{< br >}} *   Absorbtion and Emission Rules{{< br >}}*   Spectra (Rotational, Vibrational, Electronic){{< br >}}*   Line Shapes {{< br >}}{{< br >}}  |  |
-| 4 | {{< h 3 >}}Equation of Radiative Transfer (M){{< /h >}} {{< br >}}{{< br >}} Derivation - Special Cases {{< br >}}{{< br >}}  |  |
-| 5 | {{< h 3 >}}Equation of Radiative Transfer (cont.) (M){{< /h >}} {{< br >}}{{< br >}} Fluxes and Simple Solutions - Radiative Equilibrium Approximation (Exercise 1) {{< br >}}{{< br >}}  |  |
-| 6 | {{< h 3 >}}Modeling Atmospheric Transmission and Emission (M){{< /h >}} {{< br >}}{{< br >}} The HITRAN Data Base and Applications (Exercise 2) {{< br >}}{{< br >}}  | Exercise 1 due |
-| 7 | {{< h 3 >}}Modeling Atmospheric Transmission and Emission (cont.) (M){{< /h >}} {{< br >}}{{< br >}} Band Models (Weak Line, Strong Line, Random, Regular, k Distribution) {{< br >}}{{< br >}}  | Exercise 2 due |
-| 8 | {{< h 3 >}}Modeling Atmospheric Transmission and Emission (cont.) (M){{< /h >}} {{< br >}}{{< br >}} MODTRAN - R.M. (Exercise 3) {{< br >}}{{< br >}}  |  |
-| 9 | {{< h 3 >}}Scattering of Radiation by Molecules and Particles (1 Class Period) (M){{< /h >}}   {{< br >}}{{< br >}} *   Single Scattering{{< br >}}*   Size Distributions{{< br >}}*   Mie Scattering (Exercise 4) {{< br >}}{{< br >}}  | Exercise 3 due |
-| 10 | {{< h 3 >}}Multiple Scattering (1 Class Period) (M){{< /h >}} {{< br >}}{{< br >}} Discrete Ordinates (Exercise 5) {{< br >}}{{< br >}}  | Exercise 4 due |
-| 11 | {{< h 3 >}}Remote Sensing (4 Class Periods) (cont.) (M){{< /h >}}   {{< br >}}{{< br >}} *   Scattered Sunlight (Observations from Ground, from Satellite){{< br >}}*   Retrieval of Gases, Particulate Information, Surface Properties {{< br >}}{{< br >}}  | Exercise 5 due |
-| 12 | {{< h 3 >}}Remote Sensing (cont.) (M){{< /h >}}   {{< br >}}{{< br >}} *   Thermal Emission{{< br >}}*   Weighting Functions{{< br >}}*   Temperature and Water Vapor Retrieval{{< br >}}*   Limb Scanning {{< br >}}{{< br >}}  |  |
-| 13 | {{< h 3 >}}Remote Sensing (cont.) (M){{< /h >}} {{< br >}}{{< br >}} Application of MODTRAN to Remote Sensing (Exercise 6) {{< br >}}{{< br >}}  |  |
-| 14 | {{< h 3 >}}Remote Sensing (cont.) (M){{< /h >}} {{< br >}}{{< br >}} Miscellaneous Topics and Summary (Microwave Remote Sensing, Active Remote Sensing - LIDAR and RADAR) {{< br >}}{{< br >}}  | Exercise 6 due five days after Lec #14
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Course Overview and Role of Radiation in Climate System (P and M)
+
+  
+
+*   Global Energy Budget
+*   Chemical Composition and Radiative Effects
+*   Thermal Structure of the Atmosphere
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Physics of Radiation (P)
+
+  
+
+*   Thermodynamic Concepts
+*   Energy Levels in Molecules
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Molecular Spectroscopy (P)
+
+  
+
+*   Absorbtion and Emission Rules
+*   Spectra (Rotational, Vibrational, Electronic)
+*   Line Shapes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Equation of Radiative Transfer (M)
+
+Derivation - Special Cases
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Equation of Radiative Transfer (cont.) (M)
+
+Fluxes and Simple Solutions - Radiative Equilibrium Approximation (Exercise 1)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Modeling Atmospheric Transmission and Emission (M)
+
+The HITRAN Data Base and Applications (Exercise 2)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Modeling Atmospheric Transmission and Emission (cont.) (M)
+
+Band Models (Weak Line, Strong Line, Random, Regular, k Distribution)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Modeling Atmospheric Transmission and Emission (cont.) (M)
+
+MODTRAN - R.M. (Exercise 3)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Scattering of Radiation by Molecules and Particles (1 Class Period) (M)
+
+  
+
+*   Single Scattering
+*   Size Distributions
+*   Mie Scattering (Exercise 4)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Multiple Scattering (1 Class Period) (M)
+
+Discrete Ordinates (Exercise 5)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Remote Sensing (4 Class Periods) (cont.) (M)
+
+  
+
+*   Scattered Sunlight (Observations from Ground, from Satellite)
+*   Retrieval of Gases, Particulate Information, Surface Properties
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Remote Sensing (cont.) (M)
+
+  
+
+*   Thermal Emission
+*   Weighting Functions
+*   Temperature and Water Vapor Retrieval
+*   Limb Scanning
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Remote Sensing (cont.) (M)
+
+Application of MODTRAN to Remote Sensing (Exercise 6)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Remote Sensing (cont.) (M)
+
+Miscellaneous Topics and Summary (Microwave Remote Sensing, Active Remote Sensing - LIDAR and RADAR)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 6 due five days after Lec #14
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
