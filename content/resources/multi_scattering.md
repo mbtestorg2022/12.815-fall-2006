@@ -4,6 +4,7 @@ description: This resource contains references and talks about discrete ordinate
   along with the exercise.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-815-atmospheric-radiation-fall-2006/88c659e3b9c49b9da9c9fd583c989e8c_multi_scattering.pdf
 file_type: application/pdf
+parent_uid: 0fdbba55-195c-6ded-a0ee-12fec4af7a78
 resourcetype: Document
 title: multi_scattering.pdf
 uid: 88c659e3-b9c4-9b9d-a9c9-fd583c989e8c
